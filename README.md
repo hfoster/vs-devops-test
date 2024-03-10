@@ -9,3 +9,7 @@
 ### Questions/Doubts
 
 1. What guardrails can be put in place to ensure this pattern is followed?
+
+### Diagram
+
+![A partial diagram of the solution](Images/vs-devops-test-diagram.png)
